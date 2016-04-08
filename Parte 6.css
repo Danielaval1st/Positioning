@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.cuadrado{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+#fucsia{
+	background: #ee3e64;
+	top: 0px;
+}
+#azul{
+	background: #44accf;
+	position: relative;
+	left: 200px;
+	top: 200px;
+}
+#verde{
+	background: #b7d84b;
+	top: 200px;
+}
+#amarillo{
+	background: yellow;
+	top:400px;
+}
